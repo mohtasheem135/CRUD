@@ -1,8 +1,8 @@
-import { initializeApp } from "firebase/app";
-import firebase from "firebase/app";
-import "firebase/database";
+// import { initializeApp } from "firebase/app";
+import firebase from "firebase/compat/app";
+import "firebase/compat/database";
 
-const firebaseConfig = {
+var firebaseConfig = {
   apiKey: "AIzaSyA_FjjxLk_TcdptHxMDD7qvJ3LAOeLWxkI",
   authDomain: "login-2-f027c.firebaseapp.com",
   databaseURL: "https://login-2-f027c-default-rtdb.firebaseio.com",

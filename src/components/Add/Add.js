@@ -1,4 +1,5 @@
 import React from 'react'
+import AddEdit from '../../AddEdit'
 import Navbar from '../Navbar/Navbar'
 
 const Add = () => {
@@ -6,6 +7,9 @@ const Add = () => {
         <div>
             <Navbar/>
             <h1>This is Add Page</h1>
+            <br/>
+            <AddEdit/>
+            
         </div>
     )
 }
