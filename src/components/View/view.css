@@ -1,0 +1,30 @@
+.back-btn{
+    padding: 7px 32px;
+    background-color: gray;
+    color: white;
+    margin-left: 47%;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+.back-btn:hover{
+    cursor: pointer;
+    background-color: rgb(87, 87, 87);
+    color: black;
+    border-radius: 5px;
+}
+
+.view-container{
+    /* border: 2px solid black; */
+    
+}
+
+.element{
+    border-bottom: 2px solid grey;
+    margin-left: 35%;
+    font-size: 26px;
+    margin-top: 20px;
+    display: table;
+
+}

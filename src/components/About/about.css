@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.about-para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+    /* border: 2px solid black; */
+    margin-top: 8%;
+    font-weight: bold;
+}
